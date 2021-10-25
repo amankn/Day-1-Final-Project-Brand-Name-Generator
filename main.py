@@ -8,3 +8,10 @@
 
 #5. Make sure the input cursor shows on a new line, see the example at:
 #   https://band-name-generator-end.appbrewery.repl.run/
+
+print("Welcome to Brand Name Genrator")
+
+city = input("Enter the city where you grew Up : ")
+pet = input( "Enter your Pet Name : ")
+
+print("Your Brand Name is "+ city + " " + pet)
